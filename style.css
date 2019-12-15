@@ -1,0 +1,26 @@
+body {
+    margin: 6%;
+    background-color: lightskyblue;
+}
+
+th div {
+    margin: 10px 20px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+#below_space {
+    margin-bottom: 3%;
+}
